@@ -22,8 +22,8 @@ A relational music store database with the following key tables:
 - `customer`, `invoice`, `invoiceline` — customer purchase and billing data
 - `track`, `album`, `artist`, `genre` — music catalog data
 - `employee` — staff hierarchy data
-![ER Diagram](Database ERD.png)
 ---
+![ER Diagram](Database ERD.png)
 
 ## 🛠️ Tools & Tech Stack
 
