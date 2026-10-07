@@ -23,7 +23,7 @@ A relational music store database with the following key tables:
 - `track`, `album`, `artist`, `genre` — music catalog data
 - `employee` — staff hierarchy data
 ---
-![ER Diagram](Database-ERD.png)
+![ER Diagram](Database ERD.png)
 
 ![ER Diagram](Database ERD.png)
 
